@@ -13,4 +13,3 @@ Who is him? : ISTJ의 성격과 항상 계획을 세우고 살아가는 청년
 - 🌱 I’m currently learning : JAVA , JAVASCRIPT , C , PYTHON , HTML , CSS
 - 👯 I’m looking to collaborate on : A person who is good at coding and can answer a question even if he or she is not good at communication, or a person who is full of ideas
 - 🤔 I’m looking for help with : make code with me
-- 💬 Ask me about : perfect good boy
